@@ -1,4 +1,4 @@
-#!/bin/sh
+echo "PMMP INSTALLER BY W4X51M (@RUISMINE)"
 mkdir pmmp && cd pmmp
 echo "Made a directory for the server called 'pmmp' access it any time using the command 'cd pmmp'."
 wget https://github.com/pmmp/php-build-scripts/raw/master/installer.sh
